@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/disc-golf/static/css/main.5f361e03.chunk.css",
+    "main.js": "/disc-golf/static/js/main.5833b12b.chunk.js",
+    "main.js.map": "/disc-golf/static/js/main.5833b12b.chunk.js.map",
+    "runtime-main.js": "/disc-golf/static/js/runtime-main.d9b6a405.js",
+    "runtime-main.js.map": "/disc-golf/static/js/runtime-main.d9b6a405.js.map",
+    "static/js/2.b7f4012c.chunk.js": "/disc-golf/static/js/2.b7f4012c.chunk.js",
+    "static/js/2.b7f4012c.chunk.js.map": "/disc-golf/static/js/2.b7f4012c.chunk.js.map",
+    "index.html": "/disc-golf/index.html",
+    "precache-manifest.0539ff2ce522ceb9bb995993939b5678.js": "/disc-golf/precache-manifest.0539ff2ce522ceb9bb995993939b5678.js",
+    "service-worker.js": "/disc-golf/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/disc-golf/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b7f4012c.chunk.js.LICENSE.txt": "/disc-golf/static/js/2.b7f4012c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9b6a405.js",
+    "static/js/2.b7f4012c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5833b12b.chunk.js"
+  ]
+}
