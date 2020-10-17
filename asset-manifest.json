@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/disc-golf/static/css/main.5f361e03.chunk.css",
-    "main.js": "/disc-golf/static/js/main.5833b12b.chunk.js",
-    "main.js.map": "/disc-golf/static/js/main.5833b12b.chunk.js.map",
+    "main.js": "/disc-golf/static/js/main.a82e815e.chunk.js",
+    "main.js.map": "/disc-golf/static/js/main.a82e815e.chunk.js.map",
     "runtime-main.js": "/disc-golf/static/js/runtime-main.d9b6a405.js",
     "runtime-main.js.map": "/disc-golf/static/js/runtime-main.d9b6a405.js.map",
-    "static/js/2.b7f4012c.chunk.js": "/disc-golf/static/js/2.b7f4012c.chunk.js",
-    "static/js/2.b7f4012c.chunk.js.map": "/disc-golf/static/js/2.b7f4012c.chunk.js.map",
+    "static/js/2.af64e12e.chunk.js": "/disc-golf/static/js/2.af64e12e.chunk.js",
+    "static/js/2.af64e12e.chunk.js.map": "/disc-golf/static/js/2.af64e12e.chunk.js.map",
     "index.html": "/disc-golf/index.html",
-    "precache-manifest.e1e6f634ea88d3aac7f47b6afa3d1b4d.js": "/disc-golf/precache-manifest.e1e6f634ea88d3aac7f47b6afa3d1b4d.js",
+    "precache-manifest.b490e84d1df484d2c991c610044627bb.js": "/disc-golf/precache-manifest.b490e84d1df484d2c991c610044627bb.js",
     "service-worker.js": "/disc-golf/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/disc-golf/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b7f4012c.chunk.js.LICENSE.txt": "/disc-golf/static/js/2.b7f4012c.chunk.js.LICENSE.txt"
+    "static/js/2.af64e12e.chunk.js.LICENSE.txt": "/disc-golf/static/js/2.af64e12e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d9b6a405.js",
-    "static/js/2.b7f4012c.chunk.js",
+    "static/js/2.af64e12e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5833b12b.chunk.js"
+    "static/js/main.a82e815e.chunk.js"
   ]
 }
